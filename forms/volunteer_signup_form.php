@@ -6,7 +6,7 @@
     <!-- /.card-header -->  
     <div class="card-body" style="background-color:white;">
 
-    <form action="controllers/addvolunteer.php" method="post" >
+    <form action="controllers/addvolunteer.php" method="post" id="fmAddVolunteer" name="fmAddVolunteer">
         <div class="row">
             <div class="col-md-6">
                 <div class="form-group row">
@@ -53,18 +53,23 @@
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="title" class="col-sm-3 col-form-label">Email address</label>
+                    <label for="title" class="col-sm-3 col-form-label">Email address<sapn style="color:red">*</span></label>
                     <div class="col-sm-8">
-                        <input type="email" class="form-control" id="email" name="email" placeholder="example: you@email.com" />
+                        <input type="email" class="form-control" id="email" name="email" placeholder="example: you@email.com" required/>
                     </div>
                 </div>
                 <div class="form-group row">
-                    <label for="title" class="col-sm-3 col-form-label">Confirm Email address</label>
+                    <label for="title" class="col-sm-3 col-form-label">Confirm Email address<sapn style="color:red">*</span></label>
                     <div class="col-sm-8">
-                        <input type="email" class="form-control" id="email" name="email2" placeholder="example: you@email.com" />
+                        <input type="email" class="form-control" id="email2" name="email2" placeholder="example: you@email.com" required/><br>
+                        <span id="emess" name="emess" style="color:red;"></span>
                     </div>
                 </div>
-                
+                <div class="form-group row" >
+                    <div class="col-md-10" style="float:right;">
+                        <input type="submit" class="btn btn-success col-md-4" id="btnregister1" name="btnregister2" value="Signup"/>
+                    </div>
+                </div>
             </div>
             <!-- /.col -->
         </div>
@@ -106,11 +111,18 @@
             </div>
         </div>
     </div>
-    <div class="form-group row" >
-        <div class="col-md-10" style="float:right;">
-            <input type="submit" class="btn btn-success col-md-4" id="btnregister" name="btnregister" value="Register"/>
+    <div class="form-group">
+       <div class="form-group">
+            <label>Please enter the characters in black from the picture below</label>
+            <div class="input-group ">
+                <input type="text" name="captcha_code" id="captcha_code" class="form-control col-md-5" />
+                <span class="input-group-addon" style="padding:0">
+                    <img src="controllers/captcha.php" id="captcha_image" witdth="100px" height="70px;"/>
+                </span>
+            </div>
         </div>
     </div>
+    
     </form>
     </div>
     <!-- /.card-body -->

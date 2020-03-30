@@ -28,7 +28,20 @@ include "layout/menu.php";
 
 <div class="about">
     <div class="container">
-        <?php include "forms/volunteer_signup_form.php"; ?>    
+        <?php if(isset($_GET['response'])){
+            $response = $_GET['response'];
+            if($response == "success"){
+                include "alerts/success.php"; 
+            }else if($response == "error"){
+                include "alerts/error.php"; 
+            }else if($response == "wrongcaptcha"){
+                include "alerts/wrongcaptcha.php";
+                include "forms/volunteer_signup_form.php"; 
+            }
+        }else{
+            include "forms/volunteer_signup_form.php"; 
+        }
+        ?>    
     </div>
 </div>
 

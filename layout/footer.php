@@ -69,12 +69,11 @@
 <script src="assets/vendor/jquery-validation/dist/jquery.validate.min.js"></script>
 <script src="assets/vendor/jquery-validation/dist/additional-methods.min.js"></script>
 <script src="assets/js/main.js"></script>
-
-<script src="js/jquery-3.1.1.min.js"></script>
-    <script src="js/animationCounter.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/active.js"></script>
+<script src="assets/js/validation.js"></script>
+<script src="js/animationCounter.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/active.js"></script>
 
     <script type="text/javascript">
         var _gaq = _gaq || [];
