@@ -6,72 +6,21 @@ include "layout/menu.php";
 	<!-- Home -->
 
 	<div class="home">
-		<div class="home_background" style="background-image:url(assets/images/index.jpg)"></div>
+		<div class="home_background" style="background-color:#6d7a69"></div>
 		<div class="home_content text-center">
 			<div class="container">
 				<div class="row">
 					<div class="col">
-						<div class="home_title">Belief in God  as Father and Holy Spirit is at the heart of our faith.</div>
-						<div class="home_text">God has revealed himself through the Bible. God has revealed himself most clearly through the gift of his Son, Jesus Christ. God makes himself known personally to each believer through the work of the Holy Spirit.</div>
-						<div class="button home_link"><a href="#">join with us</a></div>
+						<div class="home_title">Platform to prepare communities in self reliance and self help.</div>
+						<div class="home_text">We provide a platform where volunteers (virtual and on-site volunteer) can register and have the opportunity to aid individuals, families or communities impacted by COVID-19 (Coronavirus). </div>
+						<div class="button home_link"><a href="volunteer.php">Join us</a></div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 
-
-	<section class="carosal-area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="client owl-carousel owl-theme">
-                            <div class="item">
-                                <div class="text">
-                                    <h3>CHILDREN NEED YOUR HELP</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim <br> ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo </p>
-                                    <h5 class="white-button"><a href="#">DONATE NOW</a></h5>
-                                    <h5><a href="#">CONTACT US</a></h5>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="text">
-                                    <h3>CHILDREN NEED YOUR HELP</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim <br> ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo </p>
-                                    <h5 class="white-button"><a href="#">DONATE NOW</a></h5>
-                                    <h5><a href="#">CONTACT US</a></h5>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="text">
-                                    <h3>CHILDREN NEED YOUR HELP</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim <br> ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo </p>
-                                    <h5 class="white-button"><a href="#">DONATE NOW</a></h5>
-                                    <h5><a href="#">CONTACT US</a></h5>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="text">
-                                    <h3>CHILDREN NEED YOUR HELP</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim <br> ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo </p>
-                                    <h5 class="white-button"><a href="#">DONATE NOW</a></h5>
-                                    <h5><a href="#">CONTACT US</a></h5>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="text">
-                                    <h3>CHILDREN NEED YOUR HELP</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim <br> ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo </p>
-                                    <h5 class="white-button"><a href="#">DONATE NOW</a></h5>
-                                    <h5><a href="#">CONTACT US</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
- 
+     
 
 
 	<!-- About -->

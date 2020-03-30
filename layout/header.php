@@ -35,7 +35,7 @@ link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" r
 			
 		<!-- Top Bar -->
 		<div class="top_bar">
-			<div class="top_bar_background" style="background-image:url(assets/images/top_bar.jpg)"></div>
+			<div class="top_bar_background" style="background-color:#6d7a69;"></div>
 			<div class="top_bar_container">
 				<div class="container">
 					<div class="row">
@@ -45,10 +45,6 @@ link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" r
 									<li>
 										<i class="fa fa-envelope" aria-hidden="true"></i>
 										<div>Email: </div>
-									</li>
-									<li>
-										<i class="fa fa-phone" aria-hidden="true"></i>
-										<div>Call Us: </div>
 									</li>
 								</ul>
 								<div class="top_bar_social ml-auto">
