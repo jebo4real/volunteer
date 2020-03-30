@@ -244,7 +244,7 @@ section
 	width: 160px;
 	height: 46px;
 	text-align: center;
-	background: #9c1010;
+	background: #b10707;
 	border-radius: 3px;
 }
 .button a
@@ -357,7 +357,7 @@ section
 }
 .social_list li:hover a i
 {
-	color: #4169e1;
+	color: #b10707;
 }
 
 /*********************************
@@ -467,7 +467,7 @@ section
 .main_nav li a:hover,
 .main_nav li.active a
 {
-	color: #9c1010;
+	color: #b10707;
 }
 .search_button
 {
@@ -679,7 +679,7 @@ section
 .home_content
 {
 	position: absolute;
-	top: 30%;
+	top: 40%;
 	left: 0;
 	width: 100%;
 	z-index: 10;

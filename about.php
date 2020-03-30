@@ -4,8 +4,6 @@ include "layout/menu.php";
 ?>
 
 <div style="margin-bottom:200px;"></div>
-
-
 <div class="wrapper">
 <section class="our_activity">
             <h2>About US</h2>
@@ -20,8 +18,8 @@ include "layout/menu.php";
                             <div class="promo-icon">
                                 <i class="material-icons">near_me</i>
                             </div>
-                            <h2><a href="#">Fundraising</a></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis </p>
+                            <h2><a href="#">What we do</a></h2>
+                            <p>We provide a platform where volunteers (virtual and on-site volunteer) can register and have the opportunity to aid individuals, families or communities impacted by COVID-19 (Coronavirus). </p>
                         </div>
                     </div>
                     <div class="col-md-4 col-xs-12">
@@ -29,23 +27,22 @@ include "layout/menu.php";
                             <div class="promo-icon">
                                 <i class="material-icons">favorite</i>
                             </div>
-                            <h2><a href="#">Volunteering</a></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis </p>
+                            <h2><a href="#">Why we need you</a></h2>
+                            <p>This is a crisis where eventually everyone can help. Those who are young, those who are old and experienced, those who have skills, time and passion to be part of a solution, a solution which may lie beyond the capacity of the governments with limited resources. </p>
                         </div>
                     </div>
                     <div class="col-md-4 col-xs-12">
                         <div class="single-Promo">
                             <div class="promo-icon">
-                                <i class="material-icons">dashboard</i>
+                                <i class="material-icons">favorite</i>
                             </div>
-                            <h2><a href="#">Our Programs</a></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis </p>
+                            <h2><a href="#">Why your data is safe with us</a></h2>
+                            <p>We are committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-
 
 </div>
 <?php include "layout/footer.php"; ?>

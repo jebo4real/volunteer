@@ -7,9 +7,9 @@
                     <div class="col-md-4 col-sm-12">
                         <div class="footer-charity-text">
                             <h2>Volunteer</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris </p>
+                            <p>Individuals and Nonprofit sectors (food banks, hospital support, aged, poor people, homeless etc.) are seeing a ramp-up in the need for volunteers to assist them. People like you are the heart of many nonprofit organizations and poor people. We truly rely on you to help reach our goals and drive our mission-attainment. We intend to get 100 million volunteers in 100 days </p>
                             <hr>
-                            <p><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a><a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></p>
+                            <p><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a><a href="#"></a></p>
                         </div>
                     </div>
                     <div class="col-md-8">
