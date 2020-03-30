@@ -11,8 +11,8 @@ include "layout/menu.php";
 			<div class="container">
 				<div class="row">
 					<div class="col">
-						<div class="home_title">Platform to prepare communities in self reliance and self help.</div>
-						<div class="home_text">We provide a platform where volunteers (virtual and on-site volunteer) can register and have the opportunity to aid individuals, families or communities impacted by COVID-19 (Coronavirus). </div>
+						<div class="home_title">Platform to prepare communities in self reliance and self help</div>
+						<div class="home_text">We provide a platform where volunteers (virtual and on-site volunteer) can register and have the opportunity to aid individuals, families or communities impacted by COVID-19 (Coronavirus) </div>
 						<div class="button home_link"><a href="volunteer.php">Join us</a></div>
 					</div>
 				</div>
@@ -20,12 +20,10 @@ include "layout/menu.php";
 		</div>
 	</div>
 
-     
-
 
 	<!-- About -->
 
-	<div class="about">
+	<!-- <div class="about">
 		<div class="container">
 			<div class="row">
 				<div class="col">
@@ -49,5 +47,5 @@ include "layout/menu.php";
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 <?php include "layout/footer.php"; ?>	
