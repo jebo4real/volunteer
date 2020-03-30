@@ -71,5 +71,9 @@
 <script src="assets/plugins/parallax-js-master/parallax.min.js"></script>
 <script src="assets/plugins/colorbox/jquery.colorbox-min.js"></script>
 <script src="assets/js/custom.js"></script>
+<script src="assets/vendor/jquery-ui/jquery-ui.min.js"></script>
+<script src="assets/vendor/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="assets/vendor/jquery-validation/dist/additional-methods.min.js"></script>
+<script src="assets/js/main.js"></script>
 </body>
 </html>
