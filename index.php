@@ -20,43 +20,59 @@ include "layout/menu.php";
 		</div>
 	</div>
 
-	<!-- Event -->
 
-	<div class="event">
-		<div class="container">
-			<div class="row">
-				<div class="col">
-					<div class="event_container d-flex flex-lg-row flex-column align-items-center justify-content-start">
-						<div class="event_date d-flex flex-column align-items-center justify-content-center">
-							<div class="event_day">18</div>
-							<div class="event_month">mar</div>
-						</div>
-						<div class="event_content">
-							<div class="event_title">UPCOMING EVENT: <a href="#">exploring the Christian faith</a></div>
-							<ul class="event_row">
-								<li>
-									<div class="event_icon"><img src="assets/images/calendar.png" alt=""></div>
-									<span>08:00 AM - 11:00 AM</span>
-								</li>
-								<li>
-									<div class="event_icon"><img src="assets/images/location.png" alt=""></div>
-									<span>1195 Lobortis Rd, New Orleans, New Hampshire</span>
-								</li>
-							</ul>
-						</div>
-						<div class="event_timer_container ml-lg-auto">
-							<ul class="event_timer">
-								<li><div id="day" class="event_num">00</div><div class="event_ss">day</div></li>
-								<li><div id="hour" class="event_num">00</div><div class="event_ss">hrs</div></li>
-								<li><div id="minute" class="event_num">00</div><div class="event_ss">min</div></li>
-								<li><div id="second" class="event_num">00</div><div class="event_ss">sec</div></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+	<section class="carosal-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="client owl-carousel owl-theme">
+                            <div class="item">
+                                <div class="text">
+                                    <h3>CHILDREN NEED YOUR HELP</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim <br> ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo </p>
+                                    <h5 class="white-button"><a href="#">DONATE NOW</a></h5>
+                                    <h5><a href="#">CONTACT US</a></h5>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="text">
+                                    <h3>CHILDREN NEED YOUR HELP</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim <br> ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo </p>
+                                    <h5 class="white-button"><a href="#">DONATE NOW</a></h5>
+                                    <h5><a href="#">CONTACT US</a></h5>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="text">
+                                    <h3>CHILDREN NEED YOUR HELP</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim <br> ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo </p>
+                                    <h5 class="white-button"><a href="#">DONATE NOW</a></h5>
+                                    <h5><a href="#">CONTACT US</a></h5>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="text">
+                                    <h3>CHILDREN NEED YOUR HELP</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim <br> ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo </p>
+                                    <h5 class="white-button"><a href="#">DONATE NOW</a></h5>
+                                    <h5><a href="#">CONTACT US</a></h5>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="text">
+                                    <h3>CHILDREN NEED YOUR HELP</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim <br> ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo </p>
+                                    <h5 class="white-button"><a href="#">DONATE NOW</a></h5>
+                                    <h5><a href="#">CONTACT US</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+ 
+
 
 	<!-- About -->
 
@@ -85,57 +101,4 @@ include "layout/menu.php";
 			</div>
 		</div>
 	</div>
-
-	<!-- Mission -->
-
-	<div class="mission">
-		<div class="mission_background parallax-window" data-parallax="scroll" data-image-src="assets/images/mission.jpg" data-speed="0.8"></div>
-		<div class="mission_items d-flex flex-row flex-wrap align-items-start justify-content-start">
-
-			<div class="mission_item text-center">
-				<div class="mission_icon"><i class="fa fa-bell-o" aria-hidden="true"></i></div>
-				<div class="mission_title">our mission</div>
-				<div class="mission_text">Lorem ipsum dolor  amet, consectet adipiscing doelit. Sed a mauri suscipita utrum arcu , gravida nisl. Interdum mante ipsum.</div>
-			</div>
-
-			<div class="mission_item text-center">
-				<div class="mission_icon"><i class="fa fa-flag-o" aria-hidden="true"></i></div>
-				<div class="mission_title">our community</div>
-				<div class="mission_text">Lorem ipsum dolor  amet, consectet adipiscing doelit. Sed a mauri suscipita utrum arcu , gravida nisl. Interdum mante ipsum.</div>
-			</div>
-
-			<div class="mission_item text-center">
-				<div class="mission_icon"><i class="fa fa-heart-o" aria-hidden="true"></i></div>
-				<div class="mission_title">our belief</div>
-				<div class="mission_text">Lorem ipsum dolor  amet, consectet adipiscing doelit. Sed a mauri suscipita utrum arcu , gravida nisl. Interdum mante ipsum.</div>
-			</div>
-
-			<div class="mission_item text-center">
-				<div class="mission_icon"><i class="fa fa-moon-o" aria-hidden="true"></i></div>
-				<div class="mission_title">our faith</div>
-				<div class="mission_text">Lorem ipsum dolor  amet, consectet adipiscing doelit. Sed a mauri suscipita utrum arcu , gravida nisl. Interdum mante ipsum.</div>
-			</div>
-
-		</div>
-	</div>
-
-	<!-- Events -->
-
-	<div class="events">
-		<div class="container">
-			<div class="row">
-				<div class="col">
-					<div class="section_title_container text-center">
-						<div class="section_title">upcoming events</div>
-						<div class="section_subtitle">......</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="events_items d-flex flex-lg-row flex-column align-items-lg-start align-items-center justify-content-lg-between justify-content-center">
-
-		</div>
-	</div>
-
-
 <?php include "layout/footer.php"; ?>	

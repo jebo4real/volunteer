@@ -14,6 +14,16 @@
 <link href="assets/plugins/colorbox/colorbox.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="assets/styles/main_styles.css">
 <link rel="stylesheet" type="text/css" href="assets/styles/responsive.css">
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
+
+<link rel="stylesheet" href="./assets/styles/bootstrap.css">
+<link rel="stylesheet" href="./assets/styles/font-awesome.min.css">
+<link rel="stylesheet" href="./assets/styles/owl.carousel.min.css">
+<link rel="stylesheet" href="./assets/styles/owl.theme.default.min.css">
+<link rel="stylesheet" href="./assets/styles/style.css">
+<link rel="stylesheet" href="./assets/styles/responsive.css">
 </head>
 <body>
 
