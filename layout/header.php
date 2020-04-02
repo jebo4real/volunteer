@@ -17,13 +17,6 @@
 
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-<<<<<<< HEAD
-<!-- <link rel="stylesheet" href="./assets/styles/bootstrap.css"> -->
-<!-- <link rel="stylesheet" href="./assets/styles/font-awesome.min.css"> -->
-<!-- <link rel="stylesheet" href="./assets/styles/owl.carousel.min.css"> -->
-<!-- <link rel="stylesheet" href="./assets/styles/owl.theme.default.min.css"> -->
-=======
->>>>>>> d897e59780fa4f607e280a65d8a8e4677b12f038
 <link rel="stylesheet" href="./assets/styles/style.css">
 <link rel="stylesheet" href="./assets/styles/responsive.css">
 </head>
